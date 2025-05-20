@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/profile/seyedahmaddv/solutions)
-- Live Site URL: [Live Site](https://seyedahmadgholami.ir/social-links-profile/)
+- Live Site URL: [Live Site](https://social-links-profile-main2.netlify.app/)
 
 ## My process
 
