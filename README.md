@@ -1,6 +1,5 @@
-# Frontend Mentor - Social links profile solution
+# Social links profile solution
 
-This is my solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help improve coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,7 +33,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/profile/seyedahmaddv/solutions)
 - Live Site URL: [Live Site](https://social-links-profile-main2.netlify.app/)
 
 ## My process
@@ -94,8 +92,6 @@ In future projects, I plan to:
 ## Author
 
 - Website - [Seyed Ahmad Gholami](https://seyedahmadgholami.ir)
-- Frontend Mentor - [@seyedahmaddv](https://www.frontendmentor.io/profile/seyedahmaddv)
 - GitHub - [seyedahmaddv](https://github.com/seyedahmaddv/)
 - LinkedIn - [seyedahmaddv](https://linkedin.com/in/seyedahmaddv)
 - Dev.to - [seyedahmaddv](https://dev.to/seyedahmaddv)
-- Instagram - [seyedahmaddv](https://instagram.com/seyedahmaddv)
